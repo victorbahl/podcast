@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
-  <title>Squelch</title>
+  <title>Ctrl+Enter</title>
   <link>https://victorbahl.github.io/podcast/</link>
-  <description>Un podcast perso pour apprendre, à vélo, à faire de l'acid techno en live avec Strudel : bases musicales, sons, arrangement, build et drop. Généré avec ElevenLabs, exemples rendus dans strudel.cc.</description>
-  <language>fr</language>
-  <itunes:subtitle>Apprendre l'acid techno en live coding avec Strudel</itunes:subtitle>
-  <itunes:author>Squelch</itunes:author>
+  <description>A personal podcast to learn, on the bike, how to make acid techno live with Strudel: music basics, sounds, arrangement, build and drop. Voices by ElevenLabs, examples rendered in strudel.cc.</description>
+  <language>en</language>
+  <itunes:subtitle>Learning acid techno by live coding with Strudel</itunes:subtitle>
+  <itunes:author>Ctrl+Enter</itunes:author>
   <itunes:image href="https://victorbahl.github.io/podcast/cover.png"/>
   <itunes:category text="Music"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>Yes</itunes:block>
-
+  <item>
+    <title>Ep. 0 — The Map</title>
+    <description>We build one whole acid track, from a blank screen to the drop, in ten minutes: tempo and cycles, kick and grid, accents, the TB-303 (cutoff, resonance), the five moves of arrangement, break, build, drop. Code in the show notes.</description>
+    <enclosure url="https://victorbahl.github.io/podcast/episodes/ep00-the-map.mp3" length="9870985" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep00-the-map</guid>
+    <pubDate>Sat, 10 Oct 2026 12:00:00 +0000</pubDate>
+    <itunes:duration>616</itunes:duration>
+    <itunes:episode>0</itunes:episode>
+  </item>
 </channel>
 </rss>

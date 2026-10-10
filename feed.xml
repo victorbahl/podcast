@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>Squelch</title>
+  <link>https://victorbahl.github.io/podcast/</link>
+  <description>Un podcast perso pour apprendre, à vélo, à faire de l'acid techno en live avec Strudel : bases musicales, sons, arrangement, build et drop. Généré avec ElevenLabs, exemples rendus dans strudel.cc.</description>
+  <language>fr</language>
+  <itunes:subtitle>Apprendre l'acid techno en live coding avec Strudel</itunes:subtitle>
+  <itunes:author>Squelch</itunes:author>
+  <itunes:image href="https://victorbahl.github.io/podcast/cover.png"/>
+  <itunes:category text="Music"/>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:block>Yes</itunes:block>
+
+</channel>
+</rss>

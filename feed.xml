@@ -12,6 +12,24 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>Yes</itunes:block>
   <item>
+    <title>Ep. 2 — The 303</title>
+    <description>Write your own acid line and play it like an instrument. Notes from zero (octave, semitones, A minor), the 16-step riff, accent, slide (and why Strudel has none yet), filter envelope decay, distortion, and the big cutoff + resonance sweep. Code in the show notes.</description>
+    <enclosure url="https://victorbahl.github.io/podcast/episodes/ep02-the-303.mp3" length="6918103" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep02-the-303</guid>
+    <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
+    <itunes:duration>432</itunes:duration>
+    <itunes:episode>2</itunes:episode>
+  </item>
+  <item>
+    <title>Ep. 1 — The Groove</title>
+    <description>Drums only, and still you move. Offbeat hats, the 16-step grid (one e and a), accents, brackets and rests, Euclidean rhythms (3 over 8, the tresillo), swing, fills and a bit of randomness. Code in the show notes.</description>
+    <enclosure url="https://victorbahl.github.io/podcast/episodes/ep01-groove.mp3" length="7087794" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep01-groove</guid>
+    <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
+    <itunes:duration>442</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+  </item>
+  <item>
     <title>Ep. 0 — The Map</title>
     <description>We build one whole acid track, from a blank screen to the drop, in ten minutes: tempo and cycles, kick and grid, accents, the TB-303 (cutoff, resonance), the five moves of arrangement, break, build, drop. Code in the show notes.</description>
     <enclosure url="https://victorbahl.github.io/podcast/episodes/ep00-the-map.mp3" length="9870985" type="audio/mpeg"/>

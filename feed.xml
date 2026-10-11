@@ -3,39 +3,39 @@
 <channel>
   <title>Ctrl+Enter</title>
   <link>https://victorbahl.github.io/podcast/</link>
-  <description>A personal podcast to learn, on the bike, how to make acid techno live with Strudel: music basics, sounds, arrangement, build and drop. Voices by ElevenLabs, examples rendered in strudel.cc.</description>
-  <language>en</language>
-  <itunes:subtitle>Learning acid techno by live coding with Strudel</itunes:subtitle>
+  <description>Un podcast personnel pour apprendre, à vélo, à faire de l’acid techno en live avec Strudel : bases de la musique, sons, arrangement, build et drop. Deux voix de synthèse (ElevenLabs), des exemples rendus dans strudel.cc.</description>
+  <language>fr</language>
+  <itunes:subtitle>Apprendre l’acid techno en live coding avec Strudel</itunes:subtitle>
   <itunes:author>Ctrl+Enter</itunes:author>
   <itunes:image href="https://victorbahl.github.io/podcast/cover.png"/>
   <itunes:category text="Music"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>Yes</itunes:block>
   <item>
-    <title>Ep. 2 — The 303</title>
-    <description>Write your own acid line and play it like an instrument. Notes from zero (octave, semitones, A minor), the 16-step riff, accent, slide (and why Strudel has none yet), filter envelope decay, distortion, and the big cutoff + resonance sweep. Code in the show notes.</description>
-    <enclosure url="https://victorbahl.github.io/podcast/episodes/ep02-the-303.mp3" length="6918103" type="audio/mpeg"/>
-    <guid isPermaLink="false">ep02-the-303</guid>
+    <title>Ép. 2 — La 303</title>
+    <description>Écrire sa propre ligne d'acid et la jouer comme un instrument. Les notes depuis zéro (octave, demi-tons, La mineur), le riff de seize pas, l'accent, l'enveloppe du filtre (blip ou wah), la distorsion, changer de gamme d'un mot, et le grand balayage cutoff + résonance. Le code est dans les notes.</description>
+    <enclosure url="https://victorbahl.github.io/podcast/episodes/ep02-la-303.mp3" length="13235138" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep02-la-303</guid>
     <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
-    <itunes:duration>432</itunes:duration>
+    <itunes:duration>827</itunes:duration>
     <itunes:episode>2</itunes:episode>
   </item>
   <item>
-    <title>Ep. 1 — The Groove</title>
-    <description>Drums only, and still you move. Offbeat hats, the 16-step grid (one e and a), accents, brackets and rests, Euclidean rhythms (3 over 8, the tresillo), swing, fills and a bit of randomness. Code in the show notes.</description>
-    <enclosure url="https://victorbahl.github.io/podcast/episodes/ep01-groove.mp3" length="7087794" type="audio/mpeg"/>
-    <guid isPermaLink="false">ep01-groove</guid>
+    <title>Ép. 1 — Le groove</title>
+    <description>Rien que de la batterie, et pourtant on bouge. L'offbeat, la grille de seize pas (one e and a), les accents, la levée, les rythmes euclidiens (trois sur huit, le tresillo), le swing, le fill et un peu de hasard. Le code est dans les notes.</description>
+    <enclosure url="https://victorbahl.github.io/podcast/episodes/ep01-le-groove.mp3" length="15593264" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep01-le-groove</guid>
     <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
-    <itunes:duration>442</itunes:duration>
+    <itunes:duration>974</itunes:duration>
     <itunes:episode>1</itunes:episode>
   </item>
   <item>
-    <title>Ep. 0 — The Map</title>
-    <description>We build one whole acid track, from a blank screen to the drop, in ten minutes: tempo and cycles, kick and grid, accents, the TB-303 (cutoff, resonance), the five moves of arrangement, break, build, drop. Code in the show notes.</description>
-    <enclosure url="https://victorbahl.github.io/podcast/episodes/ep00-the-map.mp3" length="9870985" type="audio/mpeg"/>
-    <guid isPermaLink="false">ep00-the-map</guid>
-    <pubDate>Sat, 10 Oct 2026 12:00:00 +0000</pubDate>
-    <itunes:duration>616</itunes:duration>
+    <title>Ép. 0 — La carte</title>
+    <description>Un morceau d'acid entier, de l'écran vide jusqu'au drop : tempo et cycles, le kick et l'escalier des couches, l'offbeat, les accents, la TB-303 (cutoff, résonance), les cinq gestes de l'arrangement, break, build, drop, et le bon moment pour Ctrl+Entrée. Le code est dans les notes.</description>
+    <enclosure url="https://victorbahl.github.io/podcast/episodes/ep00-la-carte.mp3" length="17412222" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep00-la-carte</guid>
+    <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
+    <itunes:duration>1088</itunes:duration>
     <itunes:episode>0</itunes:episode>
   </item>
 </channel>
